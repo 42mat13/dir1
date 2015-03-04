@@ -1,0 +1,37 @@
+#content {
+	width:100%;
+}
+
+#menu {
+	background-color:red;
+	float:left;
+	position:fixed;
+	height:100px;
+	width:150px;
+	border:1px black solid;
+	border-radius:20px;
+}
+
+#menu a {
+	text-decoration:none;
+}
+
+#avatar {
+	margin:auto;
+}
+
+#portrait {
+	height:300px;
+	width:300px;
+	margin-left:400PX;
+	margin-top:1px;
+}
+
+#portrait2 {
+	height:300px;
+	width:500px;
+	margin-left:200PX;
+	margin-top:1px;
+}
+
+
